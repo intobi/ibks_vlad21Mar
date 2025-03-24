@@ -34,7 +34,6 @@ This Ticket Tracking System is a full-stack web application developed as a techn
 
 ### Demo
 
-<video width="640" height="360" controls>
-  <source src="docs/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/f77e75ea-ad80-491d-a99f-eb747bddd456
+
